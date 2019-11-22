@@ -3,6 +3,6 @@ class StoreAdminController < ApplicationController
     render :layout => "admin"
   end
 
-  def order
+  def orders
   end
 end
